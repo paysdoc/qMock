@@ -4,7 +4,7 @@
 (function () {
   'use strict';
 
-  angular.module('holmes-app.test.mock')
+  angular.module('test.mock')
     .service('mockQ', function () {
       var Deferred;
 
